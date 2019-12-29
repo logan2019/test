@@ -1,0 +1,20 @@
+录屏软件 FastStone
+
+1 建库链接本地项目 到git hub
+git barsh here 安装
+
+当前项目下 git init 本地与git hub做关联
+
+vi .gitignore 创建文件
+
+.git/
+.idea/
+
+:x!退出编辑
+.git/
+.idea/
+这两个文件夹就不会上传到 GitHub上
+randomizedSearchCV  坐标下降法
+requests 代码访问接口
+
+celery技术点       gevent
